@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "firebase": "^8.10.1",
+    "firebase-tools": "^11.22.0",
+    "react": "^18.2.0",
+    "sweetalert": "^2.1.2"
+  }
+}
