@@ -8,6 +8,8 @@ let toDoInputBar = document.querySelector("#to-do-input-bar");
 let toggleSwitch = document.querySelector(".checkbox-slider");
 let darkMode = localStorage.getItem('darkMode');
 
+localStorage.setItem('darkMode', null);
+
 function addNewTask() {
 
     const taskCard = document.createElement("div");
